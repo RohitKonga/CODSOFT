@@ -1,6 +1,6 @@
 # **Codsoft** 
 **Description:**
-Welcome to the Codsoft Internship Ui & Ux Repository! Here, you'll find a showcase of my journey and achievements during the internship, featuring hands-on projects of Ui & Ux. Dive into the realm of predictive analytics and classification with the following projects:
+Welcome to the Codsoft Internship Ui & Ux Repository! Here, you'll find a showcase of my journey and achievements during the internship, featuring hands-on projects of Ui & Ux. 
 
 1. **Sign Up**
 
